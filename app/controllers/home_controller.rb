@@ -29,5 +29,8 @@ class HomeController < ApplicationController
 
     def rent
     end
+
+    def payment
+    end
   
   end
